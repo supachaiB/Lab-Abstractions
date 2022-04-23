@@ -1,0 +1,7 @@
+C:\Users\Admins\source\repos\Abstractions and System Design\Abstractions and System Design\Abstractions and System Design\obj\Debug\net6.0-windows\Abstractions and System Design.csproj.AssemblyReference.cache
+C:\Users\Admins\source\repos\Abstractions and System Design\Abstractions and System Design\Abstractions and System Design\obj\Debug\net6.0-windows\Abstractions_and_System_Design.Form1.resources
+C:\Users\Admins\source\repos\Abstractions and System Design\Abstractions and System Design\Abstractions and System Design\obj\Debug\net6.0-windows\Abstractions and System Design.csproj.GenerateResource.cache
+C:\Users\Admins\source\repos\Abstractions and System Design\Abstractions and System Design\Abstractions and System Design\obj\Debug\net6.0-windows\Abstractions and System Design.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admins\source\repos\Abstractions and System Design\Abstractions and System Design\Abstractions and System Design\obj\Debug\net6.0-windows\Abstractions and System Design.AssemblyInfoInputs.cache
+C:\Users\Admins\source\repos\Abstractions and System Design\Abstractions and System Design\Abstractions and System Design\obj\Debug\net6.0-windows\Abstractions and System Design.AssemblyInfo.cs
+C:\Users\Admins\source\repos\Abstractions and System Design\Abstractions and System Design\Abstractions and System Design\obj\Debug\net6.0-windows\Abstractions and System Design.csproj.CoreCompileInputs.cache
